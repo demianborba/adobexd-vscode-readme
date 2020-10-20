@@ -1,4 +1,4 @@
-![xd-logo](images/xd_appicon_128.svg)
+![xd-logo](images/xd-logo.png)
 
 ## Adobe XD Extension for Visual Studio Code
 
